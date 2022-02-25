@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nelle!</h1>
-<h3 align="center">An aspiring full stack web developer.</h3>
+<h1 align="center">👋 Hi, I'm Nelle!</h1>
+<h3 align="center">An aspiring Full Stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **JavaScript.**
+- 👩🏻‍💻 I am a student at Avion School.
 
-- 📫 How to reach me **nellepuzon@gmail.com**
+- 🌱 I’m currently learning **HTML**, **CSS**, and **JavaScript.**
+
+- 📫 Email me at **nellepuzon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
