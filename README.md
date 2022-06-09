@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML**, **CSS**, and **JavaScript.**
 
-- 📫 Email me at **nellepuzon@gmail.com**
+- 📫 Email me at **junellesantiago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
