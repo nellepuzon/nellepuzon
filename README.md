@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nelle!</h1>
+<h1 align="center">👋 Hi, I'm Nelle!</h1>
 <h3 align="center">An aspiring Full Stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails**.
 
-- 🔭 I’m currently working on [journal-app](https://github.com/nellesantiago/journal-app)
+- 🔭 I’m currently working on [journal-app](https://github.com/nellesantiago/journal-app).
 
-- 📫 How to reach me **junellesantiago@gmail.com**
+- 📫 How to reach me **junellesantiago@gmail.com**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/junellesantiago/](https://www.linkedin.com/in/junellesantiago/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/junellesantiago/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
