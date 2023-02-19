@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nelle!</h1>
+<h1 align="center">👋 Hi, I'm Maia!</h1>
 <h3 align="center">An aspiring Software Engineer.</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails**.
