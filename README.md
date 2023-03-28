@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Maia!</h1>
-<h3 align="center">An aspiring Software Engineer.</h3>
+<h3 align="center">Web Development Intern at ChatGenie</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails**.
 
