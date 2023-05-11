@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**.
 
-- 🔭 I’m currently working on [bidding app](https://github.com/nellesantiago/bidding-app).
+- 🔭 I’m currently working on [dating app](https://github.com/nellesantiago/dating-app).
 
 - 📫 How to reach me **junellesantiago@gmail.com**.
 
