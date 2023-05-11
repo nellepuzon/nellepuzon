@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Maia!</h1>
 <h3 align="center">Web Development Intern at ChatGenie</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**.
+- 🌱 I’m currently learning **Ruby on Rails**, **GraphQL**, and **Ruby on Rails.
 
 - 🔭 I’m currently working on [dating app](https://github.com/nellesantiago/dating-app).
 
