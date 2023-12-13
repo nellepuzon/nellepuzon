@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Maia!</h1>
-<h3 align="center">Web Development Engineer at ChatGenie</h3>
+<h3 align="center">Full Stack Developer at Thynker Tech</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**, **GraphQL**, and **VueJS**.
+- 🌱 I’m currently learning **PHP**, **React Native**, and **WebFlow**.
 
 - 🔭 I’m currently working on [dating app](https://github.com/nellesantiago/dating-app).
 
